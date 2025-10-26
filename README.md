@@ -22,7 +22,10 @@
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,reactnative,js,ts,nodejs,express,html,css,postgresql,firebase,git,github,vscode" />
+</p>
 
 ### Frontend
 
