@@ -87,24 +87,6 @@
 
 ---
 
-## 📱 Featured Projects
-
-### 🏪 Dixy ChickenAudit App
-
-A comprehensive, production-ready React Native mobile application for restaurant chain audit management, featuring:
-
-- Real-time data synchronization with Firebase Firestore
-- Role-based access control (Admin/Manager) with Firebase Authentication
-- Comprehensive digital audit checklists with photo capture
-- Store management and audit history with analytics
-- Built with Expo, React Navigation, and AsyncStorage
-
-**Tech Stack:** React Native | Expo | Firebase | Firestore | React Navigation
-
-[![GitHub](https://img.shields.io/badge/GitHub-View_Source-181717?style=for-the-badge&logo=github)](https://github.com/mohamed-wageh/Dixy-audit-app)
-
----
-
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
@@ -140,9 +122,9 @@ A comprehensive, production-ready React Native mobile application for restaurant
 
 ## 🎯 Goals for 2025
 
-- [✅] Master React Native advanced features
-- [✅] Contribute to open source projects
-- [✅] Build and launch 3+ mobile applications
+- ✅ Master React Native advanced features
+- ✅ Contribute to open source projects
+- ✅ Build and launch 3+ mobile applications
 - [ ] Learn machine learning basics
 - [ ] Improve TypeScript proficiency
 - [ ] Write technical blog posts
