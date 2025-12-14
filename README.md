@@ -136,7 +136,7 @@
 
 <div align="center">
   
-  ### ⚡ Fun Fact
+  ###⚡ Fun Fact
   *"First, solve the problem. Then, write the code."* - John Johnson
   
   **Visitors:** ![Visitor Count](https://profile-counter.glitch.me/mohamed-wageh/count.svg)
