@@ -1,4 +1,4 @@
-import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import { HashRouter as Router, Routes, Route } from "react-router-dom";
 import { PortfolioProvider } from "./context/PortfolioContext";
 import Portfolio from "./pages/Portfolio";
 import Dashboard from "./pages/Dashboard";

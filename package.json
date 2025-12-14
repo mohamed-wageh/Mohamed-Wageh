@@ -6,10 +6,12 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
+    "build:gh-pages": "GITHUB_PAGES=true vite build",
     "preview": "vite preview",
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "firebase:deploy": "npm run build && firebase deploy",
-    "firebase:deploy:hosting": "npm run build && firebase deploy --only hosting"
+    "firebase:deploy:hosting": "npm run build && firebase deploy --only hosting",
+    "deploy": "npm run build:gh-pages"
   },
   "dependencies": {
     "firebase": "^12.5.0",
