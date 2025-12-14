@@ -17,6 +17,11 @@ export const PortfolioProvider = ({ children }) => {
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(null);
 
+  // Cache configuration
+  const CACHE_KEY = 'portfolio_data_cache';
+  const CACHE_TIMESTAMP_KEY = 'portfolio_data_cache_timestamp';
+  const CACHE_DURATION = 5 * 60 * 1000; // 5 minutes in milliseconds
+
   // Default portfolio data structure
   const defaultData = {
     hero: {
@@ -160,26 +165,81 @@ export const PortfolioProvider = ({ children }) => {
     }
   };
 
-  // Load portfolio data from Firestore
-  const loadPortfolioData = async () => {
+  // Get cached data from localStorage
+  const getCachedData = () => {
     try {
-      setLoading(true);
+      const cachedTimestamp = localStorage.getItem(CACHE_TIMESTAMP_KEY);
+      if (cachedTimestamp) {
+        const cacheAge = Date.now() - parseInt(cachedTimestamp, 10);
+        if (cacheAge < CACHE_DURATION) {
+          const cachedData = localStorage.getItem(CACHE_KEY);
+          if (cachedData) {
+            return JSON.parse(cachedData);
+          }
+        } else {
+          // Cache expired, clear it
+          localStorage.removeItem(CACHE_KEY);
+          localStorage.removeItem(CACHE_TIMESTAMP_KEY);
+        }
+      }
+    } catch (err) {
+      console.warn("Error reading cache:", err);
+    }
+    return null;
+  };
+
+  // Save data to cache
+  const saveToCache = (data) => {
+    try {
+      localStorage.setItem(CACHE_KEY, JSON.stringify(data));
+      localStorage.setItem(CACHE_TIMESTAMP_KEY, Date.now().toString());
+    } catch (err) {
+      console.warn("Error saving cache:", err);
+    }
+  };
+
+  // Load portfolio data from Firestore
+  const loadPortfolioData = async (useCache = true) => {
+    try {
+      // First, try to load from cache for instant display
+      if (useCache) {
+        const cachedData = getCachedData();
+        if (cachedData) {
+          setPortfolioData(cachedData);
+          setLoading(false);
+          setError(null);
+          // Continue to fetch fresh data in background
+        } else {
+          // No cache, show default data immediately
+          setPortfolioData(defaultData);
+          setLoading(false);
+        }
+      } else {
+        setLoading(true);
+      }
+
+      // Fetch fresh data from Firestore
       const docRef = doc(db, "portfolio", "data");
       const docSnap = await getDoc(docRef);
 
       if (docSnap.exists()) {
-        setPortfolioData(docSnap.data());
+        const freshData = docSnap.data();
+        setPortfolioData(freshData);
+        saveToCache(freshData);
       } else {
         // Initialize with default data if document doesn't exist
         await setDoc(docRef, defaultData);
         setPortfolioData(defaultData);
+        saveToCache(defaultData);
       }
       setError(null);
     } catch (err) {
       console.error("Error loading portfolio data:", err);
       setError(err.message);
-      // Fallback to default data on error
-      setPortfolioData(defaultData);
+      // Only fallback to default if we don't have cached data
+      if (!portfolioData) {
+        setPortfolioData(defaultData);
+      }
     } finally {
       setLoading(false);
     }
@@ -192,10 +252,15 @@ export const PortfolioProvider = ({ children }) => {
       await updateDoc(docRef, updates);
       
       // Update local state
-      setPortfolioData((prev) => ({
-        ...prev,
-        ...updates
-      }));
+      setPortfolioData((prev) => {
+        const updatedData = {
+          ...prev,
+          ...updates
+        };
+        // Update cache with new data
+        saveToCache(updatedData);
+        return updatedData;
+      });
       
       return { success: true };
     } catch (err) {
@@ -205,7 +270,8 @@ export const PortfolioProvider = ({ children }) => {
   };
 
   useEffect(() => {
-    loadPortfolioData();
+    // Load data on mount - will use cache if available
+    loadPortfolioData(true);
   }, []);
 
   const value = {
