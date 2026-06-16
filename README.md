@@ -81,21 +81,11 @@ ask_me_about:
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![trophy](https://github-profile-trophy.vercel.app/?username=mohamed-wageh&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=15)
-
-</div>
-
----
-
 ## 📈 Contribution Graph
 
 <div align="center">
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=mohamed-wageh&theme=tokyo-night&hide_border=true&radius=6&area=true)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=mohamed-wageh&theme=tokyo-night&hide_border=true&radius=6&area=true&v=2)
 
 </div>
 
