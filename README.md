@@ -1,81 +1,82 @@
-# Hi there 👋 I'm Mohamed Wageh
-
-> Full Stack Mobile Developer | React Native Enthusiast | Firebase Expert
->
-> Passionate about building scalable mobile applications | Enterprise solutions | Restaurant tech specialist
-
 <div align="center">
-  
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=36BCF7FF&center=true&width=600&lines=Welcome+to+my+profile!;Mobile+Developer;React+Native+Enthusiast;Problem+Solver)
-  
+
+# Mohamed Wageh
+
+**Full Stack Mobile Developer · React Native Specialist · Firebase Expert**
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=50&lines=Building+scalable+mobile+apps+that+users+love+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-wageh-ibrahim-ba1920210/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mido41239937@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohamed-wageh)
+
 </div>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🌱 Currently learning **Advanced React Native, Performance Optimization, and Cloud Services**
-- 💼 Working on **Enterprise Mobile Applications for Restaurant Chain Management**
-- 🔭 Exploring **Real-time data synchronization and offline-first mobile apps**
-- 💬 Ask me about **React Native, Expo, Firebase, JavaScript, or mobile development**
-- 📫 How to reach me: **mido41239937@gmail.com** | [LinkedIn](https://www.linkedin.com/in/mohamed-wageh-ibrahim-ba1920210/)
+```yaml
+name: Mohamed Wageh
+location: Giza, Egypt
+company: "@digi-solutions-co-uk"
+role: Full Stack Mobile Developer
+
+currently:
+  working_on: "Enterprise mobile apps for restaurant chain management"
+  learning: "Advanced React Native performance & cloud architecture"
+  exploring: "Real-time data sync & offline-first mobile patterns"
+
+ask_me_about:
+  - "React Native & Expo"
+  - "Firebase & Cloud Services"
+  - "Mobile App Architecture"
+  - "Node.js & RESTful APIs"
+```
 
 ---
 
-### 🛠️ Tech Stack
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,js,nodejs,express,html,css,postgresql,firebase,git,github,vscode" />
-</p>
-
-### Frontend
-
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Backend & Database
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### Tools & Others
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-## 📊 GitHub Stats
+## 🛠️ Tech Stack
 
 <div align="center">
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohamed-wageh&theme=tokyonight&show_icons=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-wageh&layout=compact&theme=tokyonight" alt="Top Languages" />
-  
+
+### Languages & Frameworks
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=000)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=fff)
+![Express](https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express&logoColor=fff)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
+
+### Databases & Cloud
+
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=fff)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=fff)
+
+### Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=fff)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=fff)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=fff)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=fff)
+
 </div>
 
 ---
 
-## 🔥 GitHub Streak
+## 📊 GitHub Analytics
 
 <div align="center">
-  
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohamed-wageh&theme=tokyonight)](https://git.io/streak-stats)
-  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohamed-wageh&theme=github_dark&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-wageh&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" />
 </div>
 
----
-
-## 📈 Contribution Graph
-
 <div align="center">
-  
-  ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=mohamed-wageh&theme=tokyo-night)
-  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed-wageh&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" />
 </div>
 
 ---
@@ -83,62 +84,64 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  
-  ![trophy](https://github-profile-trophy.vercel.app/?username=mohamed-wageh&theme=tokyonight&no-frame=true&no-bg=true)
-  
+
+![trophy](https://github-profile-trophy.vercel.app/?username=mohamed-wageh&theme=darkhub&no-frame=true&no-bg=true&column=7)
+
 </div>
 
 ---
 
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-
-- [Coming soon...]
-<!-- BLOG-POST-LIST:END -->
-
----
-
-## 🤝 Let's Connect!
+## 📈 Contribution Graph
 
 <div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-wageh-ibrahim-ba1920210/)
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohamed-wageh)
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mido41239937@gmail.com)
-  
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=mohamed-wageh&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&area_color=1f6feb)
+
 </div>
 
 ---
 
-## 💼 Skills & Expertise
+## 💼 What I Do
 
-- ✅ Mobile App Development (React Native)
-- ✅ Web Development (React, JavaScript)
-- ✅ Backend Development (Node.js, Firebase)
-- ✅ Database Management (MongoDB, Firebase)
-- ✅ Version Control (Git/GitHub)
-- ✅ Agile Development & CI/CD
-- ✅ API Integration & RESTful Services
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://img.icons8.com/fluency/48/mobile-phone.png" width="40" /><br />
+      <strong>Mobile Development</strong><br />
+      <sub>React Native · Expo · Cross-platform apps with native performance</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.icons8.com/fluency/48/api-settings.png" width="40" /><br />
+      <strong>Backend & APIs</strong><br />
+      <sub>Node.js · Express · RESTful services · Real-time data sync</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.icons8.com/fluency/48/cloud.png" width="40" /><br />
+      <strong>Cloud & DevOps</strong><br />
+      <sub>Firebase · CI/CD · Cloud Functions · Firestore</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🎯 Goals for 2025
+## 🎯 2026 Goals
 
-- ✅ Master React Native advanced features
-- ✅ Contribute to open source projects
-- ✅ Build and launch 3+ mobile applications
-- [ ] Learn machine learning basics
-- [ ] Improve TypeScript proficiency
-- [ ] Write technical blog posts
+- 🔄 Master advanced React Native animations & performance
+- 🌐 Contribute to impactful open source projects
+- 📱 Ship 3+ production mobile applications
+- 🤖 Explore AI/ML integration in mobile apps
+- 📝 Strengthen TypeScript proficiency
+- ✍️ Share knowledge through technical blog posts
 
 ---
 
 <div align="center">
-  
-  ###⚡ Fun Fact
-  *"First, solve the problem. Then, write the code."* - John Johnson
-  
-  **Visitors:** ![Visitor Count](https://profile-counter.glitch.me/mohamed-wageh/count.svg)
-  
+
+### ⚡ Fun Fact
+
+> *"First, solve the problem. Then, write the code."* — John Johnson
+
+![Visitor Count](https://komarev.com/ghpvc/?username=mohamed-wageh&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS)
+
 </div>
