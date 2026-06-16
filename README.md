@@ -4,7 +4,7 @@
 
 **Full Stack Mobile Developer · React Native Specialist · Firebase Expert**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=50&lines=Building+scalable+mobile+apps+that+users+love+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=435&lines=Building+scalable+mobile+apps+%F0%9F%9A%80;React+Native+%7C+Firebase+%7C+Node.js;Always+learning%2C+always+building+%E2%9C%A8)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-wageh-ibrahim-ba1920210/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mido41239937@gmail.com)
@@ -71,12 +71,12 @@ ask_me_about:
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohamed-wageh&theme=github_dark&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-wageh&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohamed-wageh&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-wageh&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed-wageh&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=mohamed-wageh&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" />
 </div>
 
 ---
@@ -85,7 +85,7 @@ ask_me_about:
 
 <div align="center">
 
-![trophy](https://github-profile-trophy.vercel.app/?username=mohamed-wageh&theme=darkhub&no-frame=true&no-bg=true&column=7)
+![trophy](https://github-profile-trophy.vercel.app/?username=mohamed-wageh&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=15)
 
 </div>
 
@@ -103,25 +103,10 @@ ask_me_about:
 
 ## 💼 What I Do
 
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <img src="https://img.icons8.com/fluency/48/mobile-phone.png" width="40" /><br />
-      <strong>Mobile Development</strong><br />
-      <sub>React Native · Expo · Cross-platform apps with native performance</sub>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.icons8.com/fluency/48/api-settings.png" width="40" /><br />
-      <strong>Backend & APIs</strong><br />
-      <sub>Node.js · Express · RESTful services · Real-time data sync</sub>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.icons8.com/fluency/48/cloud.png" width="40" /><br />
-      <strong>Cloud & DevOps</strong><br />
-      <sub>Firebase · CI/CD · Cloud Functions · Firestore</sub>
-    </td>
-  </tr>
-</table>
+| 📱 Mobile Development | ⚙️ Backend & APIs | ☁️ Cloud & DevOps |
+| :---: | :---: | :---: |
+| React Native · Expo | Node.js · Express | Firebase · Cloud Functions |
+| Cross-platform apps with native performance | RESTful services · Real-time data sync | CI/CD · Firestore |
 
 ---
 
