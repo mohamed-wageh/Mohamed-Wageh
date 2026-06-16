@@ -4,7 +4,7 @@
 
 **Full Stack Mobile Developer · React Native Specialist · Firebase Expert**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=435&lines=Building+scalable+mobile+apps+%F0%9F%9A%80;React+Native+%7C+Firebase+%7C+Node.js;Always+learning%2C+always+building+%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=500&lines=Building+scalable+mobile+apps+%F0%9F%9A%80;React+Native+%7C+Firebase+%7C+Node.js;Always+learning+and+building+%E2%9C%A8)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-wageh-ibrahim-ba1920210/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mido41239937@gmail.com)
@@ -85,7 +85,7 @@ ask_me_about:
 
 <div align="center">
 
-![trophy](https://github-profile-trophy.vercel.app/?username=mohamed-wageh&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=15)
+![trophy](https://github-profile-trophy.vercel.app/?username=mohamed-wageh&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=15)
 
 </div>
 
@@ -95,7 +95,7 @@ ask_me_about:
 
 <div align="center">
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=mohamed-wageh&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&area_color=1f6feb)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=mohamed-wageh&theme=tokyo-night&hide_border=true&radius=6&area=true)
 
 </div>
 
